@@ -9,5 +9,9 @@
     "start": "tsc ./index.ts --lib \"dom, es6\"" 
   }, 
   "author": "Bezrukov Yurii", 
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/bezrukovyura/finder-unused-fonts.git"
+  }
 }
