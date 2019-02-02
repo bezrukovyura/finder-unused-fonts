@@ -17,5 +17,5 @@ The result will be displayed in the browser console.
 
 #### You can click on the video tutorial below.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=TCQueGNdzGo" target="_blank"><img src="https://img.youtube.com/vi/TCQueGNdzGo/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ik_qENWRcF0" target="_blank"><img src="https://img.youtube.com/vi/Ik_qENWRcF0/0.jpg" 
 alt="find unused html css fonts" width="560" height="315" border="2" /></a>
